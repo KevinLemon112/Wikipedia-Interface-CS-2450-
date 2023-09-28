@@ -1,0 +1,75 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root {
+-fx-background-color: linear-gradient( black, Gray);
+
+}
+
+
+.button {
+-fx-background-color: lightsteelblue;
+-fx-text-fill: black;
+-fx-font-family: cursive;
+-fx-font-size: 10pt;
+-fx-font-style: italic;
+-fx-font-weight: bold;
+-fx-border-style: solid;
+}
+
+.menu-bar{
+	-fx-background-color: transparent;
+	-fx-text-fill: white;
+	
+}
+
+
+.menu .label{
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+
+.menu-item{
+	-fx-background-color:black;
+	-fx-text-fill: white;
+}
+.radio-menu-item{
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}
+
+#wikiLabel {
+-fx-background-color: transparent;
+-fx-text-fill: White;
+-fx-font-family: cursive;
+-fx-font-size: 55pt;
+-fx-font-style: italic;
+-fx-font-weight: bold;
+}
+
+#catLabel {
+-fx-background-color: transparent;
+-fx-text-fill: White;
+-fx-font-family: cursive;
+-fx-font-size: 45pt;
+-fx-font-style: italic;
+-fx-font-weight: bold;
+
+}
+
+#desLabel {
+-fx-background-color: transparent;
+-fx-text-fill: White;
+-fx-font-family: cursive;
+-fx-font-size: 30pt;
+-fx-font-style: italic;
+-fx-font-weight: bold;
+}
+
+.text-field {
+-fx-background-color: WhiteSmoke;
+-fx-font-size: 10pt;
+-fx-font-style: italic;
+-fx-font-weight: bold;
+-fx-border-style: solid;
+}
+
